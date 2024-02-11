@@ -11976,4 +11976,28 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.logo {
+  width: 60px;
+  height: 60px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+main {
+  margin-bottom: 247px;
+}
+
+footer.foot {
+  padding: 15px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+h3, .h3 {
+  font-family: "Crete Round";
 }/*# sourceMappingURL=main.css.map */
